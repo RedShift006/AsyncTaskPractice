@@ -1,0 +1,7 @@
+#Wed Dec 14 21:58:51 CST 2016
+base.0=C\:\\Users\\dell\\Desktop\\AsyncTaskPractice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_61a3c0e16479e4aa31f631b722f96e846bb3006f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\dell\\Desktop\\AsyncTaskPractice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_287a373cafebc2065c2a412a25a965688ca3ab99\\classes.dex
+base.1=C\:\\Users\\dell\\Desktop\\AsyncTaskPractice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_287a373cafebc2065c2a412a25a965688ca3ab99
+file.0=C\:\\Users\\dell\\Desktop\\AsyncTaskPractice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_61a3c0e16479e4aa31f631b722f96e846bb3006f\\classes.dex
